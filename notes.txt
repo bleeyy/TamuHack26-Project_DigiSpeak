@@ -1,0 +1,11 @@
+# We Have a Hand
+# Hand has 5 fingers
+#   Fingers must range from 0-4 (inclusive) and must be integer [check values]
+# Hand has 3 angles
+#   Angles are float, and must range from 0-360 [Accepts outside of range, but converts to it]
+# Hand has 3 accelerations
+#   Just floats\
+
+Dimensions of case
+Length: 8cm Width: 5.9cm Height1: 0.3cm TinyWidth: 0.9cm
+
